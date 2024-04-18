@@ -1,3 +1,4 @@
+'''sql
 185
 SELECT d.Name AS Department, e1.Name AS Employee, e1.Salary
 FROM Employee e1 
